@@ -1,0 +1,18 @@
+metadata_version: 1
+name: '3D-Net: Monocular 3D Object Recognition for Traffic Monitoring'
+description: |-
+  This is the publicly available code for the following publication:
+  Mahdi Rezaei, Mohsen Azarmi, Farzam Mohammad Pour Mir (2021). 3D-Net: Monocular 3D Object Recognition for Traffic Monitoring. Expert Systems with Applications, Elsevier.
+authors:
+- name: Mahdi Rezaei
+  affiliations:
+  - name: University of Leeds
+- name: Mohsen Azarmi
+  affiliations:
+  - name: University of Leeds
+- name: Farzam Mohammad Pour Mir
+  affiliations:
+  - name: ' Islamic Azad University, Science and Research Branch'
+corresponding_contributor:
+  name: Mahdi Rezaei
+  email: m.rezaei@leeds.ac.uk
